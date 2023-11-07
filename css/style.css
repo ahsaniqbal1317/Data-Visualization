@@ -1,0 +1,33 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply fonts */
+body {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+h1, h2 {
+    font-family: 'Roboto Slab', serif;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style sections */
+section {
+    margin: 20px;
+}
+
+    /* Style images within sections */
+    section img {
+        max-width: 100%;
+        height: auto;
+    }
