@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Top 5 Tree Species Percentile by Cityn</title>
+    <title>Comparing Categories</title>
     <script src="https://d3js.org/d3.v6.min.js"></script>
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/> 
     <link rel="stylesheet" href="css/style.css">
+    <link
+9      href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&display=swap"
+10      rel="stylesheet"
+11    />
 
 </head>
 <body>
@@ -21,18 +26,29 @@
 
     </ul>
   </nav>
-    <h1>Top 5 Tree Species Percentile by City</h1>
-    <div id="city-selector">
+  <div class="selector"> <h1>Bar graph</h1>
+    <p> The bar graph shows the top 5 tree speice occurance in a specific city by their percentage. Upon hover on the bars it displays the number of trees in the city and the difference it has with the other bars in the SVG .</p>
+</div>
+    <!-- <h1>Top 5 Tree Species Percentile by City</h1> -->
+    <div class="selector" id="city-selector">
         <label for="city-select">Select a City: </label>
-        <select id="citySelect"></select>
+        <select class="" id="citySelect"></select>
     </div>
     <div id="chart"></div>
-    <div id='layout'>
+    <!-- <div id='layout'>
         <!-- <h2>Bar chart example</h2> -->
         <div id='container'>
           <svg />
         </div>
-      </div>
+      </div> 
+
+      <div class="selector"> <h1>Heat map</h1>
+        <p> Frequency of top 8 most frequent occuring trees in 8 Cities of US.</p>
+    </div>
+      <div id="heatmap-container"></div>
+
+
+
 </body>
 <script src="comparing categories.js"></script>
 </html>

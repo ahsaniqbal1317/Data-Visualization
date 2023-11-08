@@ -35,6 +35,15 @@ section {
 
 /* FOR COMPARING CATEGORIES */
 
+.selector{   padding-top: 15px;
+            padding-bottom: 15px;
+            padding-left: 30px;
+            font-size: 20px;
+}
+
+#citySelect{
+  font-size: 20px;
+}
 
 body {
     font-family: 'Open Sans', sans-serif;

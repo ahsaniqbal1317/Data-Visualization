@@ -7,6 +7,8 @@ window.onload = function () {
     // setRanges()
 
     getData('Albuquerque')
+    run_heatmap()
+
 
     var cities = ['Albuquerque', 'Anaheim', 'Arlington', 'Atlanta', 'Aurora', 'Austin', 'Baltimore', 'Boston', 'Buffalo', 'CapeCoral', 'ColoradoSprings', 'Columbus', 'Dallas', 'Denver', 'DesMoines', 'Detroit', 'Durham', 'Fresno', 'GardenGrove', 'GrandRapids', 'Greensboro', 'Honolulu', 'Houston', 'HuntingtonBeach', 'Indianapolis', 'Irvine', 'Jerseycity', 'Knoxville', 'LasVegas', 'LosAngeles', 'Louisville', 'Madison', 'Miami', 'Milwaukee', 'Minneapolis', 'Nashville', 'NewOrleans', 'NewYork', 'Oakland', 'OklahomaCity', 'Ontario', 'Orlando', 'OverlandPark', 'Phoenix', 'Pittsburgh', 'Plano', 'Portland', 'Providence', 'RanchoCucamonga', 'Richmond', 'Rochester', 'Sacramento', 'SanDiego', 'SanFrancisco', 'SanJose', 'SantaRosa', 'Seattle', 'SiouxFalls', 'StLouis', 'Stockton', 'Tampa', 'WashingtonDC', 'Worcester'];
 
@@ -29,7 +31,7 @@ window.onload = function () {
     });
 };
 
-
+// Call function for barplot
 function getData(filename) {
     console.log('Selected city:', filename);
 
@@ -187,7 +189,7 @@ function getData(filename) {
             .attr('x', width / 2 + margin)
             .attr('y', 40)
             .attr('text-anchor', 'middle')
-            .text('Top 10 Species by Count');
+            .text('Top 5 Tree Species Percentile by City');
 
         svg.append('text')
             .attr('class', 'source')
@@ -204,3 +206,62 @@ function getData(filename) {
         //     .text('Top 10 Species by Count');
     });
 }
+
+
+function run_heatmap() {
+
+    const margin = { top: 50, right: 30, bottom: 50, left: 50 };
+    const width = 800 - margin.left - margin.right;
+    const height = 400 - margin.top - margin.bottom;
+
+// Append an SVG element to the heatmap-container div.
+const svg = d3.select("#heatmap-container")
+    .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", `translate(${margin.left}, ${margin.top})`);
+
+// Load the CSV data.
+d3.csv("heatmap.csv").then(data => {
+    // Extract the columns (excluding 'city' and 'total') for the heatmap.
+    const columns = data.columns.slice(1, -1);
+
+    // Create a color scale for the heatmap.
+    const colorScale = d3.scaleSequential(d3.interpolateViridis)
+        .domain([0, d3.max(data, d => d3.max(columns, c => +d[c]))]);
+
+    // Create the heatmap rectangles.
+    const heatMap = svg.selectAll(".heatmap")
+        .data(data)
+        .enter()
+        .append("g")
+        .attr("class", "row")
+        .attr("transform", (d, i) => `translate(0, ${i * 20})`);
+
+    heatMap.selectAll(".cell")
+        .data(d => columns.map(column => ({ column, value: +d[column] })))
+        .enter()
+        .append("rect")
+        .attr("class", "cell")
+        .attr("x", (d, i) => i * 20)
+        .attr("width", 20)
+        .attr("height", 20)
+        .style("fill", d => colorScale(d.value));
+
+    // Add labels to the heatmap rows and columns.
+    heatMap.append("text")
+        .attr("x", -5)
+        .attr("y", 10)
+        .attr("dy", ".35em")
+        .style("text-anchor", "end")
+        .text(d => d.city);
+
+    heatMap.selectAll(".cell")
+        .data(d => columns.map(column => ({ column, value: +d[column] })))
+        .append("title")
+        .text(d => d.value);
+});
+    
+}
+
