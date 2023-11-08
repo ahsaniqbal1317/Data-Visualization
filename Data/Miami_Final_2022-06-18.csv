@@ -1,0 +1,733 @@
+"common_name","scientific_name","city","state","diameter_breast_height_CM","condition","native","diameter_breast_height_binned_CM","greater_metro","city_ID","tree_ID","planted_date","most_recent_observation","retired_date","most_recent_observation_type","longitude_coordinate","latitude_coordinate","location_type","zipcode","address","neighborhood","location_name","ward","district","overhead_utility","height_M","height_binned_M","percent_population"
+"Norfolk island pine","Araucaria heterophylla","Miami","Florida",82.042,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",85.344,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazilian pepper","Schinus terebinthifolia","Miami","Florida",31.496,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",45.974,"poor","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Benjamin fig","Ficus benjamina","Miami","Florida",32.512,"fair","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Benjamin fig","Ficus benjamina","Miami","Florida",39.116,"fair","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",84.582,"fair","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",82.55,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",52.324,"fair","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",66.294,"good","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",28.448,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",83.82,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazilian pepper","Schinus terebinthifolia","Miami","Florida",20.066,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazilian pepper","Schinus terebinthifolia","Miami","Florida",22.352,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Baldcypress","Taxodium distichum","Miami","Florida",21.844,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",34.036,"good","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rubber plant","Ficus elastica","Miami","Florida",57.912,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Oak","Quercus","Miami","Florida",35.052,"good","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazilian pepper","Schinus terebinthifolia","Miami","Florida",27.686,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Punk tree","Melaleuca quinquenervia","Miami","Florida",72.898,"fair","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Paradise tree","Simarouba amara","Miami","Florida",35.56,"good","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Butterbough","Exothea paniculata","Miami","Florida",32.766,"excellent","naturally_occurring","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Florida strangler fig","Ficus aurea","Miami","Florida",165.354,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",100.076,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",57.15,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",65.024,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",71.628,"good","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spanish lime","Melicoccus bijugatus","Miami","Florida",15.24,"good","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Avocado","Persea americana","Miami","Florida",76.962,"good","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",22.352,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",25.146,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",24.384,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",22.098,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",37.084,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",17.78,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Benjamin fig","Ficus benjamina","Miami","Florida",40.64,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",22.86,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",17.78,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",19.558,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",24.13,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",185.674,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",205.232,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syagrus","Syagrus","Miami","Florida",46.482,"excellent","no_info","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Fiddle leaf fig","Ficus lyrata","Miami","Florida",12.7,"good","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Weeping bottlebrush","Callistemon viminalis","Miami","Florida",98.044,"good","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bald cypress","Taxodium distichum","Miami","Florida",104.14,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canafistula","Cassia fistula","Miami","Florida",58.674,"poor","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Toog","Petersianthus quadrialatus","Miami","Florida",214.122,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Malabar plum","Syzygium cumini","Miami","Florida",106.426,"good","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Areca palm","Dypsis lutescens","Miami","Florida",43.18,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweetgale","Myrica","Miami","Florida",9.652,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Surinam cherry","Eugenia uniflora","Miami","Florida",10.16,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",31.496,"fair","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Murraya","Murraya","Miami","Florida",37.592,"good","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tangerine","Citrus reticulata","Miami","Florida",35.052,"poor","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",78.74,"excellent","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Shooting star","Dodecatheon","Miami","Florida",36.576,"excellent","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",40.132,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Fiddle leaf fig","Ficus lyrata","Miami","Florida",12.192,"good","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bougainvillea","Bougainvillea","Miami","Florida",43.942,"excellent","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Areca palm","Dypsis lutescens","Miami","Florida",40.64,"good","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bougainvillea","Bougainvillea","Miami","Florida",29.21,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",189.484,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Macadamia nut","Macadamia tetraphylla","Miami","Florida",50.038,"good","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Areca palm","Dypsis lutescens","Miami","Florida",30.48,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queens crapemyrtle","Lagerstroemia speciosa","Miami","Florida",22.86,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queens crapemyrtle","Lagerstroemia speciosa","Miami","Florida",17.78,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Red maple","Acer rubrum","Miami","Florida",96.52,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",79.502,"good","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",76.2,"fair","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Surinam cherry","Eugenia uniflora","Miami","Florida",6.858,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dwarf umbrella tree","Schefflera arboricola","Miami","Florida",14.986,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",27.178,"fair","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Frangipani","Plumeria","Miami","Florida",17.526,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",20.32,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",20.32,"fair","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Frangipani","Plumeria","Miami","Florida",12.7,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queens crapemyrtle","Lagerstroemia speciosa","Miami","Florida",29.718,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",17.526,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Areca palm","Dypsis lutescens","Miami","Florida",18.034,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syagrus","Syagrus","Miami","Florida",64.516,"excellent","no_info","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bauhinia","Bauhinia","Miami","Florida",49.53,"excellent","no_info","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syagrus","Syagrus","Miami","Florida",56.134,"excellent","no_info","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"West indian mahogany","Swietenia mahagoni","Miami","Florida",75.184,"poor","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"West indian mahogany","Swietenia mahagoni","Miami","Florida",67.056,"fair","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Schefflera","Schefflera","Miami","Florida",22.098,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal poinciana","Delonix regia","Miami","Florida",84.074,"good","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",69.596,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bougainvillea","Bougainvillea","Miami","Florida",29.21,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sea grape","Coccoloba uvifera","Miami","Florida",32.512,"excellent","naturally_occurring","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",34.036,"excellent","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ming aralia","Polyscias fruticosa","Miami","Florida",6.35,"good","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Garden croton","Codiaeum","Miami","Florida",15.748,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rosemallow","Hibiscus","Miami","Florida",28.194,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Marlberry","Morus","Miami","Florida",10.922,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",48.768,"good","no_info","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ponytail palm","Beaucarnea recurvata","Miami","Florida",26.416,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Avocado","Persea americana","Miami","Florida",26.416,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",15.24,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",9.144,"good","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",67.564,"good","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",66.294,"good","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",6.604,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",37.846,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chinese fan palm","Livistona chinensis","Miami","Florida",129.794,"good","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",34.29,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Baldcypress","Taxodium distichum","Miami","Florida",33.528,"good","naturally_occurring","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Baldcypress","Taxodium distichum","Miami","Florida",35.306,"fair","naturally_occurring","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Geranium aralia","Polyscias guilfoylei","Miami","Florida",19.05,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",38.354,"excellent","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",23.622,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Schefflera","Schefflera","Miami","Florida",17.78,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Surinam cherry","Eugenia uniflora","Miami","Florida",36.576,"good","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Surinam cherry","Eugenia uniflora","Miami","Florida",29.718,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Surinam cherry","Eugenia uniflora","Miami","Florida",16.764,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",53.34,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Citrus","Citrus","Miami","Florida",22.86,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bottle palm","Hyophorbe lagenicaulis","Miami","Florida",23.622,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bottle palm","Hyophorbe lagenicaulis","Miami","Florida",21.082,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bottle palm","Hyophorbe lagenicaulis","Miami","Florida",22.352,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Citrus","Citrus","Miami","Florida",8.636,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Carrotwood","Cupaniopsis anacardioides","Miami","Florida",17.78,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",40.64,"good","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",3.302,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",54.61,"good","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Frangipani","Plumeria","Miami","Florida",26.162,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",36.83,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",30.48,"poor","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",26.67,"fair","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",26.162,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweetpotato cactus","Cereus","Miami","Florida",15.24,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bougainvillea","Bougainvillea","Miami","Florida",21.59,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",14.478,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sea grape","Coccoloba uvifera","Miami","Florida",29.718,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Black olive","Bucida buceras","Miami","Florida",148.336,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Black olive","Bucida buceras","Miami","Florida",102.362,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",93.472,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",92.456,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Barbados of pride","Caesalpinia pulcherrima","Miami","Florida",24.638,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",49.276,"excellent","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",41.656,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Shooting star","Dodecatheon","Miami","Florida",8.382,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Benjamin fig","Ficus benjamina","Miami","Florida",46.482,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aloe yucca","Aloe","Miami","Florida",13.97,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aloe yucca","Aloe","Miami","Florida",14.478,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",41.148,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",90.678,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",12.192,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",16.002,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",9.144,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",7.62,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",13.97,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",20.32,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",18.034,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",27.94,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"West indian mahogany","Swietenia mahagoni","Miami","Florida",58.674,"excellent","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",34.29,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syagrus","Syagrus","Miami","Florida",70.104,"excellent","no_info","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syagrus","Syagrus","Miami","Florida",48.514,"excellent","no_info","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syagrus","Syagrus","Miami","Florida",54.356,"excellent","no_info","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",89.662,"excellent","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",68.58,"good","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",115.062,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",24.384,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Papaya","Carica papaya","Miami","Florida",7.62,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Papaya","Carica papaya","Miami","Florida",10.414,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",28.448,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",36.068,"good","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",33.782,"good","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",15.24,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",15.494,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",28.702,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",26.67,"fair","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",14.986,"fair","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",12.192,"good","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",26.67,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",8.89,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Shooting star","Dodecatheon","Miami","Florida",24.13,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bougainvillea","Bougainvillea","Miami","Florida",7.62,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bougainvillea","Bougainvillea","Miami","Florida",7.62,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bougainvillea","Bougainvillea","Miami","Florida",7.62,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bougainvillea","Bougainvillea","Miami","Florida",7.62,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",27.432,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",24.892,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",21.844,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sugar apple","Annona squamosa","Miami","Florida",44.45,"good","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sugar apple","Annona squamosa","Miami","Florida",18.288,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",12.192,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Shooting star","Dodecatheon","Miami","Florida",19.05,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Naseberry","Manilkara zapota","Miami","Florida",46.99,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Avocado","Persea americana","Miami","Florida",61.722,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Papaya","Carica papaya","Miami","Florida",19.05,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Papaya","Carica papaya","Miami","Florida",8.382,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Papaya","Carica papaya","Miami","Florida",6.35,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Citrus","Citrus","Miami","Florida",16.764,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Shooting star","Dodecatheon","Miami","Florida",28.448,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",64.008,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sapodilla","Manilkara zapota","Miami","Florida",40.64,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",44.45,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",18.034,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rosemallow","Hibiscus","Miami","Florida",19.05,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tree  trumpet","Tabebuia","Miami","Florida",29.464,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",31.496,"excellent","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",34.036,"excellent","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Benjamin fig","Ficus benjamina","Miami","Florida",21.082,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bougainvillea","Bougainvillea","Miami","Florida",17.78,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Benjamin fig","Ficus benjamina","Miami","Florida",171.704,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Benjamin fig","Ficus benjamina","Miami","Florida",22.86,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",40.132,"excellent","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Benjamin fig","Ficus benjamina","Miami","Florida",18.288,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",11.43,"excellent","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",78.74,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",72.136,"excellent","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syzygium","Syzygium","Miami","Florida",13.462,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",52.578,"excellent","no_info","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",34.544,"excellent","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",50.038,"excellent","no_info","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",27.94,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tears angels","Brugmansia suaveolens","Miami","Florida",6.604,"fair","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Areca palm","Dypsis lutescens","Miami","Florida",21.082,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Areca palm","Dypsis lutescens","Miami","Florida",28.956,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Burmese fishtail palm","Caryota mitis","Miami","Florida",44.45,"good","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cassia","Cassia","Miami","Florida",48.26,"fair","no_info","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chinese fan palm","Livistona chinensis","Miami","Florida",82.804,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",69.088,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Common screwpine","Pandanus amaryllifolius","Miami","Florida",83.566,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",16.51,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",11.43,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Foxtail palm","Wodyetia bifurcata","Miami","Florida",34.544,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Foxtail palm","Wodyetia bifurcata","Miami","Florida",35.814,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Foxtail palm","Wodyetia bifurcata","Miami","Florida",35.052,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",33.274,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",34.798,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",19.812,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",17.018,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",28.448,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",24.384,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",20.32,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",29.718,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",37.338,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",39.624,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",44.196,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",44.958,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",44.958,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",40.894,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",25.654,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",36.322,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",19.05,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",13.208,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queens crapemyrtle","Lagerstroemia speciosa","Miami","Florida",30.734,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queens crapemyrtle","Lagerstroemia speciosa","Miami","Florida",24.384,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queens crapemyrtle","Lagerstroemia speciosa","Miami","Florida",17.78,"fair","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",139.446,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rosemallow","Hibiscus","Miami","Florida",9.398,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal poinciana","Delonix regia","Miami","Florida",101.6,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Shooting star","Dodecatheon","Miami","Florida",37.592,"excellent","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syagrus","Syagrus","Miami","Florida",26.416,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syagrus","Syagrus","Miami","Florida",91.44,"excellent","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syagrus","Syagrus","Miami","Florida",62.738,"excellent","no_info","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Thunbergia","Thunbergia","Miami","Florida",11.43,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",22.352,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Scarlet jungleflame","Ixora coccinea","Miami","Florida",15.24,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Toog","Petersianthus quadrialatus","Miami","Florida",8.89,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dwarf umbrella tree","Schefflera arboricola","Miami","Florida",18.542,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dwarf umbrella tree","Schefflera arboricola","Miami","Florida",20.32,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Areca palm","Dypsis lutescens","Miami","Florida",14.732,"good","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",25.146,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",17.526,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",19.304,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Areca palm","Dypsis lutescens","Miami","Florida",13.462,"good","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australian pine","Casuarina equisetifolia","Miami","Florida",117.602,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Toog","Petersianthus quadrialatus","Miami","Florida",176.276,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Seifrizs chamaedorea","Chamaedorea cataractarum","Miami","Florida",9.906,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rosemallow","Hibiscus","Miami","Florida",14.732,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Areca palm","Dypsis lutescens","Miami","Florida",12.446,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Areca palm","Dypsis lutescens","Miami","Florida",8.89,"good","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dwarf umbrella tree","Schefflera arboricola","Miami","Florida",11.43,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rubber plant","Ficus elastica","Miami","Florida",16.764,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",80.518,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rubber plant","Ficus elastica","Miami","Florida",39.624,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Frangipani","Plumeria","Miami","Florida",26.162,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",163.068,"excellent","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Screwpine","Pandanus","Miami","Florida",65.278,"excellent","no_info","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",71.12,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",38.354,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",55.88,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",56.896,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",33.02,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",61.468,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",66.04,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Plumeria","Plumeria","Miami","Florida",12.7,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Benjamin fig","Ficus benjamina","Miami","Florida",39.624,"good","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Autograph tree","Clusia rosea","Miami","Florida",15.24,"excellent","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Autograph tree","Clusia rosea","Miami","Florida",13.462,"excellent","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Autograph tree","Clusia rosea","Miami","Florida",19.304,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",210.566,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",143.256,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",96.774,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syagrus","Syagrus","Miami","Florida",13.462,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",84.328,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",68.58,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",92.964,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",81.28,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",81.788,"good","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",64.77,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",55.88,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",86.36,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sea grape","Coccoloba uvifera","Miami","Florida",10.414,"excellent","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",57.404,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syagrus","Syagrus","Miami","Florida",68.326,"excellent","no_info","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chinese fan palm","Livistona chinensis","Miami","Florida",89.916,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",33.782,"excellent","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",55.118,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Button mangrove","Conocarpus erectus","Miami","Florida",43.434,"fair","naturally_occurring","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",62.992,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",59.182,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",54.102,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syagrus","Syagrus","Miami","Florida",68.072,"excellent","no_info","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syagrus","Syagrus","Miami","Florida",36.068,"excellent","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Fig","Ficus","Miami","Florida",18.796,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Areca palm","Dypsis lutescens","Miami","Florida",34.29,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Fishtail palm","Caryota","Miami","Florida",79.248,"excellent","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",28.956,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",54.102,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",67.818,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",42.418,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Areca palm","Dypsis lutescens","Miami","Florida",9.652,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Areca palm","Dypsis lutescens","Miami","Florida",10.922,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Orchid tree","Bauhinia blakeana","Miami","Florida",50.8,"good","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Council tree","Paulownia tomentosa","Miami","Florida",92.456,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Fragrant dracaena","Dracaena fragrans","Miami","Florida",22.098,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Punk tree","Melaleuca quinquenervia","Miami","Florida",109.22,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australian pine","Casuarina equisetifolia","Miami","Florida",55.88,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australian pine","Casuarina equisetifolia","Miami","Florida",124.206,"good","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australian pine","Casuarina equisetifolia","Miami","Florida",121.92,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australian pine","Casuarina equisetifolia","Miami","Florida",151.13,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australian pine","Casuarina equisetifolia","Miami","Florida",187.96,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",62.738,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",55.88,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Punk tree","Melaleuca quinquenervia","Miami","Florida",78.232,"good","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazilian pepper","Schinus terebinthifolia","Miami","Florida",53.34,"good","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Punk tree","Melaleuca quinquenervia","Miami","Florida",26.162,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",32.004,"excellent","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",17.272,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Schefflera","Schefflera","Miami","Florida",124.968,"excellent","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Schefflera","Schefflera","Miami","Florida",38.1,"fair","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Schefflera","Schefflera","Miami","Florida",123.444,"excellent","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ceiba","Ceiba","Miami","Florida",11.176,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Frangipani","Plumeria","Miami","Florida",8.382,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dwarf umbrella tree","Schefflera arboricola","Miami","Florida",11.938,"good","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Schefflera","Schefflera","Miami","Florida",83.058,"good","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Custard apple","Annona reticulata","Miami","Florida",30.48,"fair","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sapodilla","Manilkara zapota","Miami","Florida",44.45,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",66.294,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",69.85,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Papaya","Carica papaya","Miami","Florida",20.828,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mombin","Spondias mombin","Miami","Florida",37.084,"good","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mombin","Spondias mombin","Miami","Florida",27.94,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cure for all",NA,"Miami","Florida",22.606,"poor","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cherimoya","Annona cherimola","Miami","Florida",8.128,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",61.468,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",51.816,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",65.024,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tuna cactus","Opuntia ficus-indica","Miami","Florida",39.624,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweetpotato cactus","Cereus","Miami","Florida",74.676,"excellent","no_info","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweetpotato cactus","Cereus","Miami","Florida",93.472,"excellent","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syagrus","Syagrus","Miami","Florida",80.01,"excellent","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syagrus","Syagrus","Miami","Florida",59.182,"excellent","no_info","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bismarckia palm","Bismarckia","Miami","Florida",136.652,"excellent","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bismarckia palm","Bismarckia","Miami","Florida",129.54,"excellent","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",52.07,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",78.486,"excellent","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bottle palm","Hyophorbe lagenicaulis","Miami","Florida",77.724,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Grapefruit","Citrus paradisi","Miami","Florida",14.478,"poor","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lemon","Citrus limon","Miami","Florida",8.89,"good","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Southern magnolia","Magnolia grandiflora","Miami","Florida",8.128,"good","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rosemallow","Hibiscus","Miami","Florida",18.542,"fair","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ficus macrocarpa","Ficus punctata","Miami","Florida",28.702,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",59.436,"good","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Calophyllum","Calophyllum","Miami","Florida",33.274,"excellent","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",39.116,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rourea","Rourea","Miami","Florida",133.35,"excellent","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Avocado","Persea americana","Miami","Florida",88.646,"fair","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",17.526,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Geranium aralia","Polyscias guilfoylei","Miami","Florida",23.368,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Geranium aralia","Polyscias guilfoylei","Miami","Florida",24.892,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Geranium aralia","Polyscias guilfoylei","Miami","Florida",17.018,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Geranium aralia","Polyscias guilfoylei","Miami","Florida",16.764,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tangerine","Citrus reticulata","Miami","Florida",33.274,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Garden croton","Codiaeum","Miami","Florida",15.24,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Garden croton","Codiaeum","Miami","Florida",7.874,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Benjamin fig","Ficus benjamina","Miami","Florida",19.304,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Peregrina","Jatropha integerrima","Miami","Florida",17.78,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Garden croton","Codiaeum","Miami","Florida",13.208,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Benjamin fig","Ficus benjamina","Miami","Florida",50.546,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dypsis","Dypsis","Miami","Florida",22.352,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Fragrant dracaena","Dracaena fragrans","Miami","Florida",15.748,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lime","Citrus aurantiifolia","Miami","Florida",6.096,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Common guava","Psidium guajava","Miami","Florida",19.304,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sugar apple","Annona squamosa","Miami","Florida",30.734,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",39.116,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",36.576,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Avocado","Persea americana","Miami","Florida",62.992,"good","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sea grape","Coccoloba uvifera","Miami","Florida",57.15,"excellent","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sea grape","Coccoloba uvifera","Miami","Florida",45.72,"excellent","naturally_occurring","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Schefflera","Schefflera","Miami","Florida",50.038,"excellent","no_info","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",151.13,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",54.102,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",84.328,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",122.682,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",150.876,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",114.554,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",116.586,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",128.016,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",106.934,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",19.05,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",20.066,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",64.516,"good","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",78.994,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Coconut palm","Cocos nucifera","Miami","Florida",57.404,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",131.826,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",123.952,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",115.316,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",135.128,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",155.194,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bismarckia palm","Bismarckia","Miami","Florida",86.36,"excellent","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bismarckia palm","Bismarckia","Miami","Florida",107.696,"excellent","no_info","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",138.684,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",128.27,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",110.998,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",118.872,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",126.238,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Royal palm","Roystonea regia","Miami","Florida",140.208,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Black olive","Bucida buceras","Miami","Florida",168.656,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",40.386,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",35.814,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",71.374,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mango","Mangifera indica","Miami","Florida",30.734,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Black olive","Bucida buceras","Miami","Florida",79.248,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",25.654,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Plum pine","Podocarpus elatus","Miami","Florida",45.974,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",70.358,"excellent","no_info","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pygmy date palm","Phoenix roebelenii","Miami","Florida",63.5,"excellent","no_info","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Button mangrove","Conocarpus erectus","Miami","Florida",25.908,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Benjamin fig","Ficus benjamina","Miami","Florida",40.894,"fair","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Orange","Citrus reticulata","Miami","Florida",20.066,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Edible banana","Musa acuminata","Miami","Florida",49.53,"excellent","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Papaya","Carica papaya","Miami","Florida",13.462,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Papaya","Carica papaya","Miami","Florida",10.414,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Papaya","Carica papaya","Miami","Florida",33.782,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",13.97,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",8.382,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",9.652,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Christmas palm","Adonidia merrillii","Miami","Florida",45.72,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Scarlet jungleflame","Ixora coccinea","Miami","Florida",10.414,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Scarlet jungleflame","Ixora coccinea","Miami","Florida",6.604,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Christmas palm","Adonidia merrillii","Miami","Florida",62.484,"excellent","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Scarlet jungleflame","Ixora coccinea","Miami","Florida",5.08,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Manilla palm","Adonidia merrillii","Miami","Florida",25.654,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lagerstroemia","Lagerstroemia","Miami","Florida",29.718,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",148.082,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lagerstroemia","Lagerstroemia","Miami","Florida",29.972,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Areca palm","Dypsis lutescens","Miami","Florida",35.814,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tree  trumpet","Tabebuia","Miami","Florida",28.448,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Benjamin fig","Ficus benjamina","Miami","Florida",17.272,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travelers tree","Ravenala madagascariensis","Miami","Florida",33.02,"good","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Syagrus","Syagrus","Miami","Florida",13.462,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",23.368,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jessamine orange","Murraya paniculata","Miami","Florida",24.384,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",27.686,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",86.36,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",84.836,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",82.296,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dracaena","Dracaena","Miami","Florida",19.812,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rosemallow","Hibiscus","Miami","Florida",18.796,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rosemallow","Hibiscus","Miami","Florida",18.796,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rosemallow","Hibiscus","Miami","Florida",14.224,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",97.028,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",80.01,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",106.68,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",73.406,"excellent","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",94.488,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",81.534,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",93.218,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",201.676,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dwarf umbrella tree","Schefflera arboricola","Miami","Florida",20.066,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Florida strangler fig","Ficus aurea","Miami","Florida",15.748,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rosemallow","Hibiscus","Miami","Florida",11.176,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chinese hibiscus","Hibiscus rosa-sinensis","Miami","Florida",10.414,"good","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chinese hibiscus","Hibiscus rosa-sinensis","Miami","Florida",9.144,"good","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",241.046,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",206.756,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Baldcypress","Taxodium distichum","Miami","Florida",198.374,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",77.724,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",193.04,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",104.14,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",91.694,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",115.062,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",111.76,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",80.264,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",179.07,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",195.58,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",83.566,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",81.28,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",46.736,"excellent","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",70.612,"excellent","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",67.056,"excellent","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",71.374,"excellent","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",74.93,"excellent","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",94.996,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",51.816,"excellent","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",46.228,"excellent","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",77.978,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",123.444,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",132.842,"fair","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",81.788,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",75.184,"good","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",82.042,"fair","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",24.384,"fair","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",27.178,"fair","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",16.51,"poor","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",40.894,"good","naturally_occurring","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",15.24,"poor","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",20.574,"poor","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",15.24,"poor","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",133.858,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Paradise tree","Simarouba amara","Miami","Florida",35.052,"excellent","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",20.066,"fair","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sideroxylon foetidissimum","Sideroxylon foetidissimum","Miami","Florida",24.384,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",24.638,"poor","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gumbo limbo","Bursera simaruba","Miami","Florida",17.526,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",70.358,"poor","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gumbo limbo","Bursera simaruba","Miami","Florida",25.908,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",16.51,"poor","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",17.018,"poor","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",17.272,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gumbo limbo","Bursera simaruba","Miami","Florida",16.002,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gumbo limbo","Bursera simaruba","Miami","Florida",20.574,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sideroxylon foetidissimum","Sideroxylon foetidissimum","Miami","Florida",9.144,"poor","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",147.574,"good","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"White stopper","Eugenia axillaris","Miami","Florida",13.97,"good","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Paradise tree","Simarouba amara","Miami","Florida",12.954,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gumbo limbo","Bursera simaruba","Miami","Florida",13.97,"excellent","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"White lead tree","Leucaena leucocephala","Miami","Florida",9.144,"good","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",11.43,"fair","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",42.418,"poor","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Florida poisontree","Piscidia piscipula","Miami","Florida",7.874,"poor","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Paradise tree","Simarouba amara","Miami","Florida",23.876,"fair","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",12.7,"poor","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",11.938,"poor","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",9.906,"fair","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Paradise tree","Simarouba amara","Miami","Florida",9.144,"fair","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",19.812,"poor","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gumbo limbo","Bursera simaruba","Miami","Florida",9.906,"excellent","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gumbo limbo","Bursera simaruba","Miami","Florida",20.066,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Florida fishpoision tree","Piscidia piscipula","Miami","Florida",82.042,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Florida fishpoision tree","Piscidia piscipula","Miami","Florida",75.946,"fair","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",27.432,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",15.494,"fair","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Florida poisontree","Piscidia piscipula","Miami","Florida",22.606,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Paradise tree","Simarouba amara","Miami","Florida",7.62,"good","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",31.242,"poor","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",25.146,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",37.338,"poor","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",26.162,"excellent","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",20.066,"poor","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",12.954,"poor","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",35.052,"poor","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"White stopper","Eugenia axillaris","Miami","Florida",13.97,"excellent","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gumbo limbo","Bursera simaruba","Miami","Florida",29.464,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",14.224,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gumbo limbo","Bursera simaruba","Miami","Florida",67.056,"good","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Willow bustic","Sideroxylon salicifolium","Miami","Florida",13.716,"excellent","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",24.638,"poor","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gumbo limbo","Bursera simaruba","Miami","Florida",31.75,"good","naturally_occurring","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",87.376,"fair","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gumbo limbo","Bursera simaruba","Miami","Florida",19.304,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Willow bustic","Sideroxylon salicifolium","Miami","Florida",13.97,"fair","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",13.97,"fair","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",17.272,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",7.874,"fair","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",18.288,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"White stopper","Eugenia axillaris","Miami","Florida",10.668,"excellent","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Paradise tree","Simarouba amara","Miami","Florida",67.564,"good","introduced","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",16.764,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",16.256,"good","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",16.51,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"White stopper","Eugenia axillaris","Miami","Florida",10.922,"fair","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sideroxylon foetidissimum","Sideroxylon foetidissimum","Miami","Florida",18.796,"fair","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Florida fishpoision tree","Piscidia piscipula","Miami","Florida",22.86,"fair","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Florida fishpoision tree","Piscidia piscipula","Miami","Florida",22.86,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",20.32,"poor","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",13.97,"fair","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",27.94,"poor","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sideroxylon foetidissimum","Sideroxylon foetidissimum","Miami","Florida",10.16,"poor","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",10.16,"good","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"White stopper","Eugenia axillaris","Miami","Florida",10.16,"excellent","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",16.51,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",30.48,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",128.27,"fair","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus virginiana","Quercus virginiana","Miami","Florida",100.584,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sideroxylon foetidissimum","Sideroxylon foetidissimum","Miami","Florida",64.262,"good","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",21.59,"fair","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",19.304,"poor","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",18.542,"poor","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",50.292,"excellent","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",69.088,"good","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",29.21,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",94.234,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",74.168,"excellent","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",57.912,"good","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",25.654,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",57.658,"good","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",108.966,"fair","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Saw palmetto","Serenoa repens","Miami","Florida",42.164,"excellent","naturally_occurring","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",34.036,"excellent","naturally_occurring","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",63.754,"excellent","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",120.396,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",33.274,"good","naturally_occurring","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",26.67,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",65.786,"good","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",27.94,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",18.288,"fair","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",26.416,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",49.276,"excellent","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",19.812,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",20.32,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",76.454,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",57.404,"excellent","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",113.03,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Saw palmetto","Serenoa repens","Miami","Florida",31.75,"excellent","naturally_occurring","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Saw palmetto","Serenoa repens","Miami","Florida",28.448,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Saw palmetto","Serenoa repens","Miami","Florida",16.002,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Laurel oak","Quercus laurifolia","Miami","Florida",129.794,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",79.502,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Darlington oak","Quercus hemisphaerica","Miami","Florida",53.594,"good","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",68.834,"good","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",77.216,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",53.086,"good","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",55.118,"excellent","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",60.706,"excellent","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",54.102,"excellent","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",68.072,"excellent","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",68.072,"excellent","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slash pine","Pinus elliottii","Miami","Florida",53.848,"good","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",92.964,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cabbage palmetto","Sabal palmetto","Miami","Florida",92.964,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Darlington oak","Quercus hemisphaerica","Miami","Florida",39.878,"excellent","naturally_occurring","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Saw palmetto","Serenoa repens","Miami","Florida",13.208,"excellent","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Saw palmetto","Serenoa repens","Miami","Florida",49.53,"excellent","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Saw palmetto","Serenoa repens","Miami","Florida",18.796,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Florida fishpoision tree","Piscidia piscipula","Miami","Florida",48.26,"poor","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",10.414,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",10.668,"excellent","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",11.176,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",12.954,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"White stopper","Eugenia axillaris","Miami","Florida",13.208,"good","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",38.608,"good","naturally_occurring","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",10.16,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",24.13,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",17.78,"fair","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",35.306,"fair","naturally_occurring","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",25.654,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",13.97,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",10.922,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",20.828,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",13.208,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",13.462,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pale lidflower","Calyptranthes pallens","Miami","Florida",46.228,"fair","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gumbo limbo","Bursera simaruba","Miami","Florida",84.836,"poor","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",18.288,"fair","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",13.716,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pale lidflower","Calyptranthes pallens","Miami","Florida",17.78,"fair","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pale lidflower","Calyptranthes pallens","Miami","Florida",13.462,"fair","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sideroxylon foetidissimum","Sideroxylon foetidissimum","Miami","Florida",64.008,"poor","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",28.956,"fair","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",27.94,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",26.67,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",26.67,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",18.796,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pale lidflower","Calyptranthes pallens","Miami","Florida",13.716,"poor","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",11.176,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sideroxylon foetidissimum","Sideroxylon foetidissimum","Miami","Florida",69.85,"fair","naturally_occurring","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",10.414,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",11.43,"excellent","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",16.256,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sideroxylon foetidissimum","Sideroxylon foetidissimum","Miami","Florida",92.202,"fair","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Oysterwood","Gymnanthes lucida","Miami","Florida",11.938,"poor","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sideroxylon foetidissimum","Sideroxylon foetidissimum","Miami","Florida",114.3,"fair","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",12.954,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"White stopper","Eugenia axillaris","Miami","Florida",9.398,"fair","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",13.97,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",7.874,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",18.288,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",28.702,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Red beadtree","Adenanthera pavonina","Miami","Florida",9.906,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",15.24,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",11.684,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",13.208,"fair","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",11.684,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",19.05,"good","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"White stopper","Eugenia axillaris","Miami","Florida",20.574,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"White stopper","Eugenia axillaris","Miami","Florida",21.59,"good","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",49.53,"good","no_info","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",16.256,"fair","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sideroxylon foetidissimum","Sideroxylon foetidissimum","Miami","Florida",51.054,"fair","naturally_occurring","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",35.814,"good","no_info","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sideroxylon foetidissimum","Sideroxylon foetidissimum","Miami","Florida",88.392,"good","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",66.294,"good","no_info","60.96 to 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"White stopper","Eugenia axillaris","Miami","Florida",12.446,"good","naturally_occurring","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Red beadtree","Adenanthera pavonina","Miami","Florida",10.414,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Paradise tree","Simarouba amara","Miami","Florida",124.46,"excellent","introduced","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Boxleaf stopper","Eugenia foetida","Miami","Florida",25.4,"fair","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Leadwood","Combretum imberbe","Miami","Florida",53.086,"fair","introduced","45.72 to 60.96 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gumbo limbo","Bursera simaruba","Miami","Florida",90.17,"fair","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sandbox tree","Hura crepitans","Miami","Florida",13.208,"excellent","introduced","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bitterbush","Adriana quadripartita","Miami","Florida",9.144,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lancewood","Pseudopanax crassifolius","Miami","Florida",23.114,"fair","introduced","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bitterbush","Adriana quadripartita","Miami","Florida",10.668,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bitterbush","Adriana quadripartita","Miami","Florida",11.684,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bitterbush","Adriana quadripartita","Miami","Florida",9.398,"poor","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",80.01,"poor","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bitterbush","Adriana quadripartita","Miami","Florida",10.922,"fair","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bitterbush","Adriana quadripartita","Miami","Florida",8.636,"fair","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",15.494,"excellent","naturally_occurring","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",13.462,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doveplum","Coccoloba diversifolia","Miami","Florida",36.322,"excellent","naturally_occurring","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Paradise tree","Simarouba amara","Miami","Florida",35.306,"good","introduced","30.48 to 45.72 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Florida fishpoision tree","Piscidia piscipula","Miami","Florida",150.876,"excellent","naturally_occurring","more than 76.2 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",16.764,"excellent","no_info","15.24 to 30.48 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",13.208,"excellent","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Redberry stopper","Eugenia","Miami","Florida",11.684,"good","no_info","0 to 15.24 cm","Miami",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

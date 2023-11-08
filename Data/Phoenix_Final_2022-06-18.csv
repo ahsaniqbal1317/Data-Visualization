@@ -1,0 +1,215 @@
+"common_name","scientific_name","city","state","diameter_breast_height_CM","height_M","native","height_binned_M","diameter_breast_height_binned_CM","greater_metro","city_ID","tree_ID","planted_date","most_recent_observation","retired_date","most_recent_observation_type","longitude_coordinate","latitude_coordinate","location_type","zipcode","address","neighborhood","location_name","ward","district","overhead_utility","condition","percent_population"
+"Bean tree","Acacia salicina","Phoenix","Arizona",3.8,3.68,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bean tree","Acacia salicina","Phoenix","Arizona",3.4,3.01,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bean tree","Acacia salicina","Phoenix","Arizona",4.860041,2.73,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Desert ironwood","Olneya tesota","Phoenix","Arizona",13.94417,3.87,"naturally_occurring","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Desert ironwood","Olneya tesota","Phoenix","Arizona",59.90317,7.38,"naturally_occurring","4.57 to 9.14 m","45.72 to 60.96 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Honey mesquite hybrid","Prosopis glandulosa","Phoenix","Arizona",16.7553,5.35,"naturally_occurring","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Palo verde","Cercidium floridum","Phoenix","Arizona",11.155716,4.67,"no_info","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Palo verde","Cercidium floridum","Phoenix","Arizona",15.741982,5.39,"no_info","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Palo verde","Cercidium floridum","Phoenix","Arizona",16.359707,5.23,"no_info","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Palo verde","Cercidium floridum","Phoenix","Arizona",12.987686,5.23,"no_info","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Velvet mesquite","Prosopis velutina","Phoenix","Arizona",10.29138,4.05,"naturally_occurring","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Velvet mesquite","Prosopis velutina","Phoenix","Arizona",9.774457,4.26,"naturally_occurring","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Velvet mesquite","Prosopis velutina","Phoenix","Arizona",6.708204,3.95,"naturally_occurring","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chilean mesquite","Prosopis chilensis","Phoenix","Arizona",30.8,6.95,"introduced","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queen palm","Syagrus romanzoffiana","Phoenix","Arizona",25,6,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Weeping bottlebrush","Callistemon viminalis","Phoenix","Arizona",10.124228,4.7,"no_info","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"(corner by coop) mulberry","Morus alba","Phoenix","Arizona",63.169534,34.6,"introduced","more than 18.29 m","60.96 to 76.2 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ash","Fraxinus","Phoenix","Arizona",38.496363,27.6,"no_info","more than 18.29 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ash","Fraxinus","Phoenix","Arizona",39.87844,32.6,"no_info","more than 18.29 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ash","Fraxinus","Phoenix","Arizona",51.649492,22.1,"no_info","more than 18.29 m","45.72 to 60.96 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ash","Fraxinus","Phoenix","Arizona",27.7,23.6,"no_info","more than 18.29 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chinese privet","Ligustrum sinense","Phoenix","Arizona",9.21629,5.63,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chinese privet","Ligustrum sinense","Phoenix","Arizona",49.724139,22.6,"introduced","more than 18.29 m","45.72 to 60.96 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Grapefruit","Citrus paradisi","Phoenix","Arizona",22.010452,4.84,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Grapefruit","Citrus paradisi","Phoenix","Arizona",31.305431,9.62,"introduced","9.14 to 13.71 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Grapefruit","Citrus paradisi","Phoenix","Arizona",17.291038,6.28,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Grapefruit","Citrus paradisi","Phoenix","Arizona",7.993122,6.34,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Grapefruit","Citrus paradisi","Phoenix","Arizona",1.5,4.29,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lemon","Citrus limon","Phoenix","Arizona",13.560973,6.6,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mulberry","Morus alba","Phoenix","Arizona",54.902641,22.6,"introduced","more than 18.29 m","45.72 to 60.96 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mulberry","Morus alba","Phoenix","Arizona",35.512392,34.6,"introduced","more than 18.29 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mulberry","Morus alba","Phoenix","Arizona",42.6,45.6,"introduced","more than 18.29 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mulberry","Morus alba","Phoenix","Arizona",38.947786,30.6,"introduced","more than 18.29 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mulberry","Morus alba","Phoenix","Arizona",29.780195,32.6,"introduced","more than 18.29 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mulberry","Morus alba","Phoenix","Arizona",23.760892,8.6,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Orange","Citrus reticulata","Phoenix","Arizona",14.78276,5.29,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pecan","Carya illinoinensis","Phoenix","Arizona",49.2,30.6,"introduced","more than 18.29 m","45.72 to 60.96 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pecan","Carya illinoinensis","Phoenix","Arizona",42.475052,26.8,"introduced","more than 18.29 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"African sumac","Searsia lancea","Phoenix","Arizona",19.228885,6.4,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Myrtle","Myrtus communis","Phoenix","Arizona",18.61451,5.8,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sour orange","Citrus aurantium","Phoenix","Arizona",16.095419,4.6,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Velvet ash","Fraxinus velutina","Phoenix","Arizona",46.2,11.1,"naturally_occurring","9.14 to 13.71 m","45.72 to 60.96 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Velvet mesquite","Prosopis velutina","Phoenix","Arizona",25.567362,8.12,"naturally_occurring","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Arizona (velvet) ash","Fraxinus velutina","Phoenix","Arizona",12.5,5.4,"naturally_occurring","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indian rosewood","Dalbergia latifolia","Phoenix","Arizona",24.5,6.4,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indian rosewood","Dalbergia latifolia","Phoenix","Arizona",11.5,8,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pink flower peach tree","Prunus persica","Phoenix","Arizona",4.5,3.96,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sour orange","Citrus aurantium","Phoenix","Arizona",2.343075,3.6,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Weeping bottle brush","Callistemon viminalis","Phoenix","Arizona",8.01561,3.57,"no_info","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Grapefruit","Citrus paradisi","Phoenix","Arizona",33.5361,5.53,"introduced","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Orange","Citrus aurantium","Phoenix","Arizona",21.244529,6.82,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Palo brea","Cercidium floridum","Phoenix","Arizona",24.183465,7.49,"no_info","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Grape fruit","Citrus paradisi","Phoenix","Arizona",6.874045,3.58,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mediterranean fan palm","Chamaerops humilis","Phoenix","Arizona",14.25,2.8,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mesquite","Prosopis","Phoenix","Arizona",29.154759,6.9,"no_info","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queen palm","Syagrus romanzoffiana","Phoenix","Arizona",23,9.12,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"Citrus","Phoenix","Arizona",8.046117,4.2,"no_info","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"Ficus microcarpa","Phoenix","Arizona",15.101738,5.8,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Blue palo verde","Cercidium floridum","Phoenix","Arizona",16.724234,6.42,"no_info","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tree brazilian pepper","Schinus terebinthifolia","Phoenix","Arizona",5.220153,3.27,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chinese elm or lacebark elm","Ulmus parvifolia","Phoenix","Arizona",7.18401,4.8,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chinese elm or lacebark elm","Ulmus parvifolia","Phoenix","Arizona",9.729337,4.6,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chinese elm or lacebark elm","Ulmus parvifolia","Phoenix","Arizona",3.3,3.56,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Palo brea","Cercidium floridum","Phoenix","Arizona",59.360003,9.1,"no_info","4.57 to 9.14 m","45.72 to 60.96 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Paloverde.mexican palo verde","Cercidium floridum","Phoenix","Arizona",7.890501,3.18,"no_info","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Shamel ash","Fraxinus uhdei","Phoenix","Arizona",19.3,7.6,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Shamel ash","Fraxinus uhdei","Phoenix","Arizona",32.9,8.5,"introduced","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Shamel ash","Fraxinus uhdei","Phoenix","Arizona",14.8,6.44,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"(jagged leaf)","Fraxinus","Phoenix","Arizona",21.5,5.76,"no_info","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Front 2","Fraxinus","Phoenix","Arizona",24.580683,4.33,"no_info","0 to 4.57 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indian laurel fig","Ficus microcarpa","Phoenix","Arizona",18.794946,7.4,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indian laurel fig","Ficus microcarpa","Phoenix","Arizona",24.703239,6.41,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indian laurel fig","Ficus microcarpa","Phoenix","Arizona",29.663277,3.79,"introduced","0 to 4.57 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indian laurel fig","Ficus microcarpa","Phoenix","Arizona",22.735655,2.98,"introduced","0 to 4.57 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indian laurel fig","Ficus microcarpa","Phoenix","Arizona",35.575553,2.39,"introduced","0 to 4.57 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queen palm","Syagrus romanzoffiana","Phoenix","Arizona",28.8,6.53,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queen palm","Syagrus romanzoffiana","Phoenix","Arizona",39.7,5.04,"introduced","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queen palm","Syagrus romanzoffiana","Phoenix","Arizona",44.2,6.72,"introduced","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queen palm","Syagrus romanzoffiana","Phoenix","Arizona",27.1,7.26,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Same as unknown front","Fraxinus","Phoenix","Arizona",24.6,5.22,"no_info","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexican blue palm","Brahea armata","Phoenix","Arizona",58.1,5.72,"introduced","4.57 to 9.14 m","45.72 to 60.96 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queen palm","Syagrus romanzoffiana","Phoenix","Arizona",21.2,5.31,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queen palm","Syagrus romanzoffiana","Phoenix","Arizona",24.5,5.21,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queen palm","Syagrus romanzoffiana","Phoenix","Arizona",35.8,6.67,"introduced","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ash","Fraxinus","Phoenix","Arizona",17,7.4,"no_info","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ash","Fraxinus","Phoenix","Arizona",15.5,6.6,"no_info","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chilean mesquite","Prosopis chilensis","Phoenix","Arizona",40.5,7.8,"introduced","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"China berry. white cedar","Melia azedarach","Phoenix","Arizona",8.5,4.7,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"China berry. white cedar","Melia azedarach","Phoenix","Arizona",6.9,4.9,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ocotillo","Fouquieria splendens","Phoenix","Arizona",2,3.4,"naturally_occurring","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Saguaro","Carnegiea gigantea","Phoenix","Arizona",63,5.5,"naturally_occurring","4.57 to 9.14 m","60.96 to 76.2 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Saguaro","Carnegiea gigantea","Phoenix","Arizona",62,4.9,"naturally_occurring","4.57 to 9.14 m","60.96 to 76.2 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"White mulberry","Morus alba","Phoenix","Arizona",24.8,7.8,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"White mulberry","Morus alba","Phoenix","Arizona",16.7,6.6,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aleppo pine","Pinus halepensis","Phoenix","Arizona",43.8,10.1,"introduced","9.14 to 13.71 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aleppo pine","Pinus halepensis","Phoenix","Arizona",24.5,9.6,"introduced","9.14 to 13.71 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aleppo pine","Pinus halepensis","Phoenix","Arizona",21.401402,8,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aleppo pine","Pinus halepensis","Phoenix","Arizona",28.546103,7.6,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aleppo pine","Pinus halepensis","Phoenix","Arizona",108.542434,21.5,"introduced","more than 18.29 m","more than 76.2 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Apricot","Prunus armeniaca","Phoenix","Arizona",23.195043,4.84,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Apricot","Prunus armeniaca","Phoenix","Arizona",15.143976,3.92,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Common fig","Ficus carica","Phoenix","Arizona",27.650316,4.35,"introduced","0 to 4.57 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Fremont cottonwood","Populus fremontii","Phoenix","Arizona",132,24.6,"introduced","more than 18.29 m","more than 76.2 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Fremont cottonwood","Populus fremontii","Phoenix","Arizona",65,21.6,"introduced","more than 18.29 m","60.96 to 76.2 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Fremont cottonwood","Populus fremontii","Phoenix","Arizona",65.5,26.6,"introduced","more than 18.29 m","60.96 to 76.2 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Fremont cottonwood","Populus fremontii","Phoenix","Arizona",69,26.6,"introduced","more than 18.29 m","60.96 to 76.2 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Grapefruit","Citrus paradisi","Phoenix","Arizona",27.752658,4.44,"introduced","0 to 4.57 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Grapefruit","Citrus paradisi","Phoenix","Arizona",30.580222,6.51,"introduced","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italian cypress","Cupressus sempervirens","Phoenix","Arizona",106.019102,6.5,"introduced","4.57 to 9.14 m","more than 76.2 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lemon","Citrus limon","Phoenix","Arizona",24.067821,5.31,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Navel","Citrus aurantium","Phoenix","Arizona",22.412943,5,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Navel","Citrus aurantium","Phoenix","Arizona",14.331434,5.31,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Navel","Citrus aurantium","Phoenix","Arizona",20.793268,5.1,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Peach","Prunus persica","Phoenix","Arizona",24.347484,4.29,"introduced","0 to 4.57 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Peach","Prunus persica","Phoenix","Arizona",18.610212,3.93,"introduced","0 to 4.57 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Velvet or arizona ash","Fraxinus velutina","Phoenix","Arizona",63,17.1,"naturally_occurring","13.71 to 18.29 m","60.96 to 76.2 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Velvet or arizona ash","Fraxinus velutina","Phoenix","Arizona",66,16.6,"naturally_occurring","13.71 to 18.29 m","60.96 to 76.2 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Velvet or arizona ash","Fraxinus velutina","Phoenix","Arizona",51.812643,9,"naturally_occurring","4.57 to 9.14 m","45.72 to 60.96 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Velvet or arizona ash","Fraxinus velutina","Phoenix","Arizona",42.1,21.6,"naturally_occurring","more than 18.29 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"White mulberry","Morus alba","Phoenix","Arizona",43.539178,18.6,"introduced","more than 18.29 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"India rosewood","Dalbergia latifolia","Phoenix","Arizona",1.627882,3.4,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"India rosewood","Dalbergia latifolia","Phoenix","Arizona",2,3.52,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sonoran palo verde","Cercidium floridum","Phoenix","Arizona",8.438602,4.6,"no_info","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sonoran palo verde","Cercidium floridum","Phoenix","Arizona",9.361624,5.99,"no_info","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Blue paloverde","Cercidium floridum","Phoenix","Arizona",41.109731,9.1,"no_info","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Blue paloverde","Cercidium floridum","Phoenix","Arizona",34.5,NA,"no_info",NA,"30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mesquite","Prosopis","Phoenix","Arizona",6.458328,4.68,"no_info","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mesquite","Prosopis","Phoenix","Arizona",38.281588,7.3,"no_info","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mesquite","Prosopis","Phoenix","Arizona",33.2,NA,"no_info",NA,"30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queen palm","Syagrus romanzoffiana","Phoenix","Arizona",31.8,4.97,"introduced","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queen palm","Syagrus romanzoffiana","Phoenix","Arizona",13.8,3.5,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queen palm","Syagrus romanzoffiana","Phoenix","Arizona",18.5,4.83,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Blue paloverde","Parkinsonia florida","Phoenix","Arizona",26.131016,7.55,"naturally_occurring","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"California palm","Washingtonia filifera","Phoenix","Arizona",47,5,"naturally_occurring","4.57 to 9.14 m","45.72 to 60.96 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jacaranda","Jacaranda mimosifolia","Phoenix","Arizona",14.5,7.5,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Oleander","Nerium oleander","Phoenix","Arizona",6.344289,4.37,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Oleander","Nerium oleander","Phoenix","Arizona",4.666905,4.23,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Oleander","Nerium oleander","Phoenix","Arizona",9.027735,4.37,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Oleander","Nerium oleander","Phoenix","Arizona",6.519202,4.23,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Resinous juglans","Juglans nigra","Phoenix","Arizona",24,6.04,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Saguaro","Carnegiea gigantea","Phoenix","Arizona",28,4.2,"naturally_occurring","0 to 4.57 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Saguaro","Carnegiea gigantea","Phoenix","Arizona",49,4.67,"naturally_occurring","4.57 to 9.14 m","45.72 to 60.96 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sour orange","Citrus aurantium","Phoenix","Arizona",11.905881,4.2,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Velvet ash","Fraxinus velutina","Phoenix","Arizona",32.5,8.5,"naturally_occurring","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Weeping bottlebrush","Callistemon viminalis","Phoenix","Arizona",26,8,"no_info","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Arizona ash. velvet ash","Fraxinus velutina","Phoenix","Arizona",73.2,8.62,"naturally_occurring","4.57 to 9.14 m","60.96 to 76.2 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Arizona ash. velvet ash","Fraxinus velutina","Phoenix","Arizona",31.145144,7.87,"naturally_occurring","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Arizona ash. velvet ash","Fraxinus velutina","Phoenix","Arizona",32.5,7.72,"naturally_occurring","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Arizona ash. velvet ash","Fraxinus velutina","Phoenix","Arizona",25.2,8.98,"naturally_occurring","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Arizona ash. velvet ash","Fraxinus velutina","Phoenix","Arizona",39.1,9.62,"naturally_occurring","9.14 to 13.71 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Arizona ash. velvet ash","Fraxinus velutina","Phoenix","Arizona",43.8,10.67,"naturally_occurring","9.14 to 13.71 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Arizona ash. velvet ash","Fraxinus velutina","Phoenix","Arizona",34.253321,8.1,"naturally_occurring","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Arizona ash. velvet ash","Fraxinus velutina","Phoenix","Arizona",39.7,9,"naturally_occurring","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Arizona ash. velvet ash","Fraxinus velutina","Phoenix","Arizona",30,8.5,"naturally_occurring","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Arizona ash. velvet ash","Fraxinus velutina","Phoenix","Arizona",15.6,5.84,"naturally_occurring","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Arizona ash. velvet ash","Fraxinus velutina","Phoenix","Arizona",18.3,6.46,"naturally_occurring","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queen palm","Syagrus romanzoffiana","Phoenix","Arizona",19.3,7.34,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aleppo pine","Pinus halepensis","Phoenix","Arizona",50.6,8.2,"introduced","4.57 to 9.14 m","45.72 to 60.96 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ash","Fraxinus","Phoenix","Arizona",3.5,2.7,"no_info","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ash","Fraxinus","Phoenix","Arizona",2.3,3,"no_info","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"African sumac","Searsia lancea","Phoenix","Arizona",34.3,7.3,"introduced","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"African sumac","Searsia lancea","Phoenix","Arizona",41.670853,8.6,"introduced","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"African sumac","Searsia lancea","Phoenix","Arizona",40.2,8,"introduced","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bottle tree","Brachychiton rupestris","Phoenix","Arizona",10.630616,5.91,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"California palm","Washingtonia filifera","Phoenix","Arizona",3.2,2.43,"naturally_occurring","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"California palm","Washingtonia filifera","Phoenix","Arizona",73,14.6,"naturally_occurring","13.71 to 18.29 m","60.96 to 76.2 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Grape fruitoro blanco","Citrus paradisi","Phoenix","Arizona",10.682696,4.1,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Grapefruit","Citrus paradisi","Phoenix","Arizona",7.840281,3.63,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lemon","Citrus limon","Phoenix","Arizona",7.379024,4.18,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Luckynut","Cascabela thevetia","Phoenix","Arizona",8.783507,3.81,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Luckynut","Cascabela thevetia","Phoenix","Arizona",8.146165,2.71,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexican fan palm","Washingtonia robusta","Phoenix","Arizona",67,23.6,"introduced","more than 18.29 m","60.96 to 76.2 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexican fan palm","Washingtonia robusta","Phoenix","Arizona",64.6,18.6,"introduced","more than 18.29 m","60.96 to 76.2 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sissoo","Dalbergia latifolia","Phoenix","Arizona",19.6,8.3,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chilean mesquite","Prosopis chilensis","Phoenix","Arizona",11.2,5.3,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chilean mesquite","Prosopis chilensis","Phoenix","Arizona",5,5.3,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chinese elm","Ulmus parvifolia","Phoenix","Arizona",5.5,5.77,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chinese elm","Ulmus parvifolia","Phoenix","Arizona",6,5.9,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Arizona ash. velvet ash","Fraxinus velutina","Phoenix","Arizona",20.5,21.6,"naturally_occurring","more than 18.29 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweet orange","Citrus sinensis","Phoenix","Arizona",25.441108,2.9,"introduced","0 to 4.57 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweet orange","Citrus sinensis","Phoenix","Arizona",21.262173,3.74,"introduced","0 to 4.57 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweet orange","Citrus sinensis","Phoenix","Arizona",19.57013,4.8,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweet orange","Citrus sinensis","Phoenix","Arizona",20.620136,454,"introduced","more than 18.29 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweet orange","Citrus sinensis","Phoenix","Arizona",13.341664,3.99,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweet orange","Citrus sinensis","Phoenix","Arizona",22.395759,4.88,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"African sumac","Searsia lancea","Phoenix","Arizona",25.561299,6.44,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"African sumac","Searsia lancea","Phoenix","Arizona",33.571863,7.55,"introduced","4.57 to 9.14 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aleppo pine","Pinus halepensis","Phoenix","Arizona",60.6,18.6,"introduced","more than 18.29 m","45.72 to 60.96 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aleppo pine","Pinus halepensis","Phoenix","Arizona",82.5,27.6,"introduced","more than 18.29 m","more than 76.2 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aleppo pine","Pinus halepensis","Phoenix","Arizona",54.2,31.6,"introduced","more than 18.29 m","45.72 to 60.96 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ash","Fraxinus","Phoenix","Arizona",24.680559,8.02,"no_info","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Round leaf eucalyptus","Eucalyptus","Phoenix","Arizona",16.7,5.11,"no_info","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sonoran palo verde","Cercidium floridum","Phoenix","Arizona",26.316915,9.1,"no_info","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Acacia hybrid","Acacia","Phoenix","Arizona",9.721111,3.9,"no_info","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indian laurel fig","Ficus microcarpa","Phoenix","Arizona",5.4,3.55,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indian laurel fig","Ficus microcarpa","Phoenix","Arizona",19.193749,3.92,"introduced","0 to 4.57 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jacaranda","Jacaranda mimosifolia","Phoenix","Arizona",23.8,7.8,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jacaranda","Jacaranda mimosifolia","Phoenix","Arizona",23.1,6.44,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Purple bauhinia","Bauhinia purpurea","Phoenix","Arizona",16.43259,6,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexican blue palm","Brahea armata","Phoenix","Arizona",34,3.8,"introduced","0 to 4.57 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queen palm","Syagrus romanzoffiana","Phoenix","Arizona",19.5,3.5,"introduced","0 to 4.57 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queen palm","Syagrus romanzoffiana","Phoenix","Arizona",22.5,4.9,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Queen palm","Syagrus romanzoffiana","Phoenix","Arizona",21,4.6,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Southern live oak","Quercus virginiana","Phoenix","Arizona",7.5,4.8,"introduced","4.57 to 9.14 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bottle tree","Brachychiton rupestris","Phoenix","Arizona",24.772969,8.1,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Fremont cottonwood","Populus fremontii","Phoenix","Arizona",35.9,25.6,"introduced","more than 18.29 m","30.48 to 45.72 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkish pine","Pinus brutia","Phoenix","Arizona",53,9.5,"introduced","9.14 to 13.71 m","45.72 to 60.96 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkish pine","Pinus brutia","Phoenix","Arizona",25.519013,5.95,"introduced","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Iron wood","Ostrya virginiana","Phoenix","Arizona",4.924429,3.27,"introduced","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cholla","Cylindropuntia fulgida","Phoenix","Arizona",5.8,2.5,"naturally_occurring","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cholla","Cylindropuntia fulgida","Phoenix","Arizona",7.767883,2.1,"naturally_occurring","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ocotillo","Fouquieria splendens","Phoenix","Arizona",3.324154,4.39,"naturally_occurring","0 to 4.57 m","0 to 15.24 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Saguaro","Carnegiea gigantea","Phoenix","Arizona",52.1,6.31,"naturally_occurring","4.57 to 9.14 m","45.72 to 60.96 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Leafless palo verde","Cercidium floridum","Phoenix","Arizona",15.854968,4.72,"no_info","4.57 to 9.14 m","15.24 to 30.48 cm","Phoenix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
